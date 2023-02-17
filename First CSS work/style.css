@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(./carousel-2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+
+.we{
+    color: brown;
+    background-color: yellow;
+}
+.red{
+    color: red;
+    background-color: aqua;
+}
+.what{
+    color: green;
+    background-color: wheat;
+}
